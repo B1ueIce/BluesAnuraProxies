@@ -2,15 +2,12 @@
     "apps": [
         {
             "name": "Terbium",
-            "type": "auto",
-            "package": "blue.TERBIUM",
-            "index": "index.html",
             "icon": "https://terbium-46q.pages.dev/terbium.png",
-            "wininfo": {
-                "title": "Terbium",
-                "width": "100%",
-                "height": "100%"
-            }
+            "summary": "(tiny app description)",
+            "desc": "(longer app description)",
+            "package": "blue.terbium",
+            "data": "app.zip",
+            "category": "game"
         }
         
     ]

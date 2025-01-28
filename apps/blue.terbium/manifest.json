@@ -1,0 +1,9 @@
+{
+	"name": "Terbium",
+	"icon": "https://terbium-46q.pages.dev/terbium.png",
+	"summary": "(tiny app description)",
+	"desc": "(longer app description)",
+	"package": "blue.terbium",
+	"data": "app.zip",
+	"category": "game",
+}
